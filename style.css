@@ -19,7 +19,7 @@ p {
 
 footer {
     position: relative;
-    height: 300px;
+    height: 320px;
     width: 100%;
     background-color: black;
 }
@@ -28,8 +28,8 @@ p.copyright {
     position: relative;
     width: 100%;
     color: white;
-    line-height: 240px; 
-    font-size: 0.8em;
+    line-height: 320px; 
+    font-size: 0.9em;
     text-align: center;
     bottom:0;
 }
